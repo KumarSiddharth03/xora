@@ -1,44 +1,61 @@
-🤖 Introduction
-Xora is a Modern UI/UX SaaS website developed using React.js and Tailwind CSS that exemplifies modern UI/UX principles. Its sleek design, seamless animations, and overall user experience set a high standard, serving as a reference or inspiration for future modern applications or websites in general.
+## <a name="introduction">🤖 Introduction</a>
 
-⚙️ Tech Stack
-Vite
-React.js
-Tailwind CSS
-🔋 Features
-👉 Stunning Sections: Includes hero, features, pricing (monthly/yearly), FAQ, testimonials, and download software sections.
+Xora is a Modern UI/UX SaaS website developed using React.js and Tailwind CSS that exemplifies modern UI/UX principles.
+Its sleek design, seamless animations, and overall user experience set a high standard, serving as a reference or
+inspiration for future modern applications or websites in general.
 
-👉 Smooth Animations: Complex CSS for fluid animations and eye-catching effects.
+## <a name="tech-stack">⚙️ Tech Stack</a>
 
-👉 Cool CSS Gradients: Beautiful gradient effects using CSS before and after pseudo-elements.
+- Vite
+- React.js
+- Tailwind CSS
 
-👉 Seamless Navigation: Offers a smooth user experience with intuitive navigation and scrolling.
+## <a name="features">🔋 Features</a>
 
-👉 Optimized Performance: Built for fast loading and an optimized experience.
+👉 **Stunning Sections**: Includes hero, features, pricing (monthly/yearly), FAQ, testimonials, and download software
+sections.
 
-👉 Pixel Perfect Design: Ensures flawless responsiveness across all devices and screen sizes.
+👉 **Smooth Animations**: Complex CSS for fluid animations and eye-catching effects.
+
+👉 **Cool CSS Gradients**: Beautiful gradient effects using CSS `before` and `after` pseudo-elements.
+
+👉 **Seamless Navigation**: Offers a smooth user experience with intuitive navigation and scrolling.
+
+👉 **Optimized Performance**: Built for fast loading and an optimized experience.
+
+👉 **Pixel Perfect Design**: Ensures flawless responsiveness across all devices and screen sizes.
 
 and many more, including code architecture and reusability
 
-🤸 Quick Start
+## <a name="quick-start">🤸 Quick Start</a>
+
 Follow these steps to set up the project locally on your machine.
 
-Prerequisites
+**Prerequisites**
 
 Make sure you have the following installed on your machine:
 
-[Git]
-[Node.js]
-[npm]
-Cloning the Repository
+- [Git]
+- [Node.js]
+- [npm]
 
+**Cloning the Repository**
+
+```bash
 git clone https://github.com/KumarSiddharth03/xora.git
 cd xora
-Installation
+```
+
+**Installation**
 
 Install the project dependencies using npm:
 
+```bash
 npm install
-Running the Project
+```
 
+**Running the Project**
+
+```bash
 npm run dev
+```
